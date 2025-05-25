@@ -32,5 +32,4 @@ This project is a powerful and lightweight stock price forecasting system that u
 ### 🔁 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/stock-price-predictor-xgboost.git
-cd stock-price-predictor-xgboost
+git https://github.com/Vicky200204/Stock_prediction/blob/main/Stock_Prediction.ipynb
